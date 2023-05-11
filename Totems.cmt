@@ -1,5 +1,6 @@
 Name=Totems
 Author=Cement Team
-Links=https://github.com/CementGB/totems/raw/main/Totems.dll,https://github.com/CementGB/totems/raw/main/totems,https://raw.githubusercontent.com/HueSamai/BetterMapSelection/main/Better%20Map%20Selection.cmt
+CementFile=https://raw.githubusercontent.com/CementGB/totems/main/Totems.cmt
+Links=https://github.com/CementGB/totems/raw/main/Totems.dll,https://github.com/CementGB/totems/raw/main/totems,https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/BetterMapSelection.cmt
 Message=https://raw.githubusercontent.com/CementGB/totems/main/message
 LatestVersion=https://github.com/CementGB/totems/raw/main/version
